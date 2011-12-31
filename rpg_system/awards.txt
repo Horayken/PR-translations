@@ -107,7 +107,7 @@
 		"bounty"	"5"
 		"exp"		"250"
 		"name"		"Healed Teammate: "
-		"name_es"	"Companero Curado: "
+		"name_es"	"Compañero Curado: "
                 "name_pt"       "Companheiro Curado: "
                 "name_ru"       "Вылечил напарника: "
 	}
@@ -187,7 +187,7 @@
 		"bounty"	"0"
 		"exp"		"1000"
 		"name"		"Finale Escape: "
-		"name_es"	"Final Sobrevivida: "
+		"name_es"	"Escape Final: "
                 "name_pt"       "Final Escapado: "
                 "name_ru"       "Спасение: "
 	}
@@ -199,7 +199,7 @@
 		"bounty"	"4"
 		"exp"		"100"
 		"name"		"Witch killed: "
-		"name_es"	"Witch Asesinada: "
+		"name_es"	"Bruja Asesinada: "
                 "name_pt"       "Witch Assassinada: "
                 "name_ru"       "Убил ведьму: "    
 	}
@@ -211,7 +211,7 @@
 		"bounty"	"2"
 		"exp"		"250"
 		"name"		"Witch Cr0wned: "
-		"name_es"	"Witch Asesinada de un disparo: "
+		"name_es"	"Bruja Asesinada de un disparo: "
                 "name_pt"       "Witch Cr0wned: "
                 "name_ru"       "Разбудил ведьму: "
 	}  
@@ -223,7 +223,7 @@
 		"bounty"	"5"
 		"exp"		"50"
 		"name"		"Witch Burnt: "
-		"name_es"	"Witch Quemada: "
+		"name_es"	"Bruja Quemada: "
                 "name_pt"       "Witch Queimada: "
                 "name_ru"       "Поджёг ведьму: "
 	}
@@ -235,7 +235,7 @@
 		"bounty"	"4"
 		"exp"		"100"
 		"name"		"Tank Burnt: "
-		"name_es"	"Tank Quemado: "
+		"name_es"	"Tanque Quemado: "
                 "name_pt"       "Tank Queimado: "
                 "name_ru"       "Поджёг танка: "
 	}
@@ -247,7 +247,7 @@
 		"bounty"			"3"
 		"exp"			"75"
 		"name"		"Biled Tank: "
-		"name_es"	"Tank Vomitado: "
+		"name_es"	"Tanque Vomitado: "
                 "name_pt"       "Tank Vomitado: "
                 "name_ru"       "Кинул банку с блевотой на танка: "
 	}
@@ -259,7 +259,7 @@
 		"bounty"	"2"
 		"exp"		"300"
 		"name"		"Tank Killed: "
-		"name_es"	"Tank Asesinado: "
+		"name_es"	"Tanque Asesinado: "
                 "name_pt"       "Tank Assassinado: "
                 "name_ru"       "Убил танка: "
 	}
@@ -271,7 +271,7 @@
 		"bounty"	"8"
 		"exp"		"1000"
 		"name"		"Tank SOLO: "
-		"name_es"	"Tank Asesinado Solo: "
+		"name_es"	"Tanque Asesinado Solo: "
                 "name_pt"       "Tank Assassinado Sozinho"
                 "name_ru"       "Убил танка в одиночку: "
 	}
